@@ -11,5 +11,5 @@ DOSTUPNI ZADACI:
 - Automobil i brijeg
 - Omjer elongacije između A(T/2) i A(0)
 
-*Ovi programčići služe za provjeru točnosti rješenja i ne odgovaram za njihovu ispravnost*
+*Ovi programčići služe za provjeru točnosti rješenja i ne odgovaram za njihovu ispravnost.*
 *Ne odgovaram za nikavku njihovu zlouporabu*
